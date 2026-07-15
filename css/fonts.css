@@ -1,0 +1,76 @@
+@font-face {
+	font-family:'SF Pro';
+	font-style:normal;
+	font-weight:1 1000;
+	font-display: swap;
+	src:local('☺'), url("../fonts/SFPro.woff2") format("woff2-variations"), url("../fonts/SFPro.woff2") format("woff2"), url("../fonts/SFPro.ttf") format("truetype-variations"), url("../fonts/SFPro.ttf") format("truetype");
+	/* (C) 2020 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'SF Pro';
+	font-style:italic;
+	font-weight:1 1000;
+	font-display: swap;
+	src:local('☺'), url("../fonts/SFProItalic.woff2") format("woff2-variations"), url("../fonts/SFProItalic.woff2") format("woff2"), url("../fonts/SFProItalic.ttf") format("truetype-variations"), url("../fonts/SFProItalic.ttf") format("truetype");
+	/* (C) 2020 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:300;
+	font-display: swap;
+	src:local('☺'), url("../fonts/SFProIcons_light.woff") format("woff"), url("../fonts/SFProIcons_light.ttf") format("truetype");
+	/* (C) 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 300';
+	font-display: swap;
+	src:url('../fonts/SFProIcons_light.eot');
+	/* (C) 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:500;
+	font-display: swap;
+	src:local('☺'), url("../fonts/SFProIcons_medium.woff") format("woff"), url("../fonts/SFProIcons_medium.ttf") format("truetype");
+	/* (C) 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 500';
+	font-display: swap;
+	src:url('../fonts/SFProIcons_medium.eot');
+	/* (C) 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-style:normal;
+	font-weight:600;
+	font-display: swap;
+	src:local('☺'), url("../fonts/SFProIcons_semibold.woff") format("woff"), url("../fonts/SFProIcons_semibold.ttf") format("truetype");
+	/* (C) 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'SF Pro Icons 600';
+	font-display: swap;
+	src:url('../fonts/SFProIcons_semibold.eot');
+	/* (C) 2015 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'SF Pro Icons';
+	font-display: swap;
+	font-style:normal;
+	font-weight:400;
+	src:url('../fonts/SFProIcons_regular.eot');
+	src:local('☺'), url("../fonts/SFProIcons_regular.woff") format("woff"), url("../fonts/SFProIcons_regular.ttf") format("truetype");
+	/* (C) 2015 Apple Inc. All rights reserved. */
+}
+
